@@ -1,0 +1,1 @@
+function start(x){send({"type":"chat","msg":'/send 76561198245903222 '+ x,"lang":LANG});}
